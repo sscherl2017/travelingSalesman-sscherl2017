@@ -1,3 +1,10 @@
+/** 
+ * This class can do several heuristics on a set of points, smallest increase, nearest neighbor and greedy. It also does
+ * not need a CSS file. You can either click on the first canvas to add points or add random points through the console.
+ * @author Sam Scherl
+ * @version 2/29/16
+ */
+
 var arrayX = [];
 var arrayY = [];
 
